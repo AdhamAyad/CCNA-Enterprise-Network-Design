@@ -45,7 +45,5 @@ We extend our sincere thanks to the instructors for their guidance throughout th
 And gratitude to my dedicated teammate for the collaboration:
 
 * Mohamed Elsayed
-
-* @[اسم صاحبك]
-
+  
 ---
